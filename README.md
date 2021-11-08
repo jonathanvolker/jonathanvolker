@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Html - Css - Sass
 - ⚡ NodeJs - Express 
 - ⚡ MongoDB Atlas - PostgreSQL
+- ⚡ Heroku - Vercel - Netlify
 
 
 <p>
