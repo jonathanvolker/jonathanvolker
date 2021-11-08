@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### Jonathan Volker FullStack Dev.
 
-🔭 Desarollador autodidacta.
+🔭 Desarollador autodidacta, me encanta codear todas las horas posibles y de vez en cuando jugar mobas.
 
 - ⚡ JavaScript - React - Boostrap - Material UI.
 - ⚡ Html - Css - Sass
