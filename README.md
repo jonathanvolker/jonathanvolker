@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **jonathanvolker/jonathanvolker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Jonathan Volker FullStack Dev.
+
+🔭 Desarollador autodidacta.
+
+- ⚡ JavaScript - React - Boostrap - Material UI.
+- ⚡ Html - Css - Sass
+- ⚡ NodeJs - Express 
+- ⚡ MongoDB Atlas - PostgreSQL
+
+
+<p>
+  <img height="440" src="https://i.morioh.com/2019/11/28/d04e7fc1c000.jpg" />
+</p>
