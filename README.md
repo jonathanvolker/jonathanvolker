@@ -22,9 +22,10 @@ Here are some ideas to get you started:
 
 - ⚡ JavaScript - React - Boostrap - Material UI.
 - ⚡ Html - Css - Sass
-- ⚡ NodeJs - Express 
+- ⚡ NodeJs - Express - Strapi
 - ⚡ MongoDB Atlas - PostgreSQL
 - ⚡ Heroku - Vercel - Netlify
+- ⚡ Uipath Studio Community
 
 
 <p>
