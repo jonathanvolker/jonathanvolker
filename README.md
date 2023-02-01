@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 
 
 <p>
-  <img height="440" src="https://www.redvirtual.bid/wp-content/uploads/2020/10/Web-Personal-MERN-Full-Stack-MongoDB-Express-React-y-Node.jpg" />
+  <img height="440" src="https://images.ctfassets.net/aq13lwl6616q/7cS8gBoWulxkWNWEm0FspJ/c7eb42dd82e27279307f8b9fc9b136fa/nodejs_cover_photo_smaller_size.png" />
 </p>
