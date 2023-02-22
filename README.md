@@ -16,15 +16,22 @@ Here are some ideas to get you started:
 -->
 
 
-### Jonathan Volker FullStack Dev.
+### Jonathan Volker Backend Dev.
 
 🔭 Desarollador autodidacta, me encanta codear todas las horas posibles y de vez en cuando jugar mobas.
 
-- ⚡ JavaScript - React - Boostrap - Material UI.
+💬 Backend
+- ⚡ NodeJs -> Express - Fastify - Strapi
+- ⚡ MongoDB - PostgreSQL
+- ⚡ Docker
+- ⚡ AWS
+- ⚡ Cloud server (Linux)
+
+💬 Front-end
+- ⚡ JavaScript - React - Material UI.
 - ⚡ Html - Css - Sass
-- ⚡ NodeJs - Express - Strapi
-- ⚡ MongoDB Atlas - PostgreSQL
-- ⚡ Heroku - Vercel - Netlify
+
+💬 RPA
 - ⚡ Uipath Studio Community
 
 
