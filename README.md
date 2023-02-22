@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - ⚡ Cloud server (Linux)
 
 💬 Front-end
-- ⚡ JavaScript - React - Material UI.
+- ⚡ JavaScript -> React - Material UI
 - ⚡ Html - Css - Sass
 
 💬 RPA
