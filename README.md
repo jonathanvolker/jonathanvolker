@@ -1,38 +1,26 @@
 
-
-<!--
-**jonathanvolker/jonathanvolker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 ### Jonathan Volker - Desarrollador Backend.
 
-🔭 Desarollador autodidacta, me especializo en el desarrollo de aplicaciones utilizando Node.js, y he trabajado con frameworks como Express y Fastify. Mi dominio de TypeScript me permite crear código limpio, escalable y testeable, mientras que mi experiencia con Docker me ha permitido implementar y administrar aplicaciones eficientemente en entornos de contenedores.
-Además, tengo una sólida comprensión de bases de datos tanto SQL como MongoDB. He diseñado y optimizado esquemas de bases de datos eficientes para satisfacer las necesidades específicas de los proyectos en los que he trabajado.
+🔭 Hola, soy Jonathan. En mi recorrido profesional, he cultivado habilidades sólidas en el desarrollo de software, especializándome en la creación de aplicaciones mediante Node.js utilizando Typescript. Durante este tiempo, he trabajado con frameworks como Express y Fastify, lo que me ha permitido escribir código limpio, escalable y apto para pruebas.
+He tenido la oportunidad de trabajar con tecnologías de AWS, como AWS Lambda para el desarrollo de funciones serverless y DynamoDB para el almacenamiento de datos. Además, he utilizado Redis para mejorar el rendimiento de mis proyectos. En el ámbito de las pruebas, cuento con experiencia en la creación de pruebas unitarias y de extremo a extremo, y estoy familiarizado con herramientas como Jest y otras, lo que me ha ayudado a garantizar la calidad de las aplicaciones.
+No solo me destaco por mis habilidades técnicas, sino también por mi capacidad de colaboración. Mi enfoque en trabajar en equipo y mis habilidades de comunicación han sido cruciales para forjar relaciones sólidas y obtener resultados sobresalientes en diversos proyectos.
+Siempre estoy dispuesto a asumir nuevos desafíos y expandir mi conocimiento técnico. Constantemente busco oportunidades para el crecimiento profesional y la exploración de tecnologías emergentes. No dudes en ponerte en contacto conmigo para explorar cómo podríamos colaborar en proyectos desafiantes, con un enfoque claro en la calidad y la ética.
 
-Más allá de mis habilidades técnicas, destaco por mi capacidad para colaborar efectivamente en equipos. Mi enfoque colaborativo y mi habilidad para comunicarme claramente me han permitido establecer relaciones sólidas con mis compañeros de trabajo y lograr resultados excepcionales en conjunto.
+Puedes contactarme a través de:
+Correo electrónico: joni_451@hotmail.com
+Teléfono: +543413571646
 
 💬 Backend
 - ⚡ NodeJs -> Express - Fastify - Strapi
-- ⚡ MongoDB - PostgreSQL
-- ⚡ Docker
-- ⚡ AWS
+- ⚡ AWS -> Lambda - EC2 - S3
+- ⚡ BD -> MongoDB - PostgreSQL - dynamoDB
+- ⚡ Infra -> Serverless - Docker
+- ⚡ Test -> Jest - Mocha
 - ⚡ Cloud server (Linux)
 
 💬 Front-end
 - ⚡ JavaScript -> React - Material UI
-- ⚡ Html - Css - Sass - Tailwind
+- ⚡ Html - Css - Tailwind
 
 💬 RPA
 - ⚡ Uipath Studio Community
